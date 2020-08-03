@@ -1,0 +1,1 @@
+# spree-extension-product-report
