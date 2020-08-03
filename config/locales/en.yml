@@ -3,3 +3,5 @@
 
 en:
   hello: "Hello world"
+  foo_name: The Foo Report
+  foo_description: The You Know All Report
